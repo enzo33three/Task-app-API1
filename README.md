@@ -31,7 +31,7 @@
 <!-- LIVE DEMO -->
 ### Live Demo
 
-You can check a running version of this project <a href="https://blueycode.github.io/pokedex">here</a>.
+You can check a running version of this project <a href="https://bluegfgfthub.io/pokedex">here</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
