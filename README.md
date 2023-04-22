@@ -6,14 +6,16 @@
 
   <p align="center">
     <em>A simple Pokedex developed with HTML, CSS and JavaScript using <a href="https://pokeapi.co">Pokeapi</a></em>
-
+   <a href="https:/dsdsdso/pokedex">Live Demo</a> 
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This repository is about the web application for The Pokédex.
 
+  The Pokédex is an electronic device created and designed to catalog and provide information regarding the various species of Pokémon featured in the Pokémon video game, anime and manga series.
 
 ### Assets
 
@@ -30,7 +32,7 @@
 <!-- LIVE DEMO -->
 ### Live Demo
 
-You can check a running version of this project <a href="https://bluegfgfthub.io/pokedex">here</a>.
+You can check a running version of this project <a href="https://bdsfsgfgfthub.io/pokedex">here</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
